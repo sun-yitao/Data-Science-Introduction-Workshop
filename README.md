@@ -1,4 +1,4 @@
-# Data-Science-Introduction-Workshop
+# Python for Machine Learning Workshop
 NUS Statistics Society Python for Machine Learning Workshop AY2019/2020 Semester 1
 
 Welcome to the Github Repository for the Python for Machine Learning Workshop! 
